@@ -5,13 +5,13 @@ LS
 # 2 - What is the command for changing directories?
 CD
 # 3 - What is the command for going "up" a folder (to a parent directory)?
-the up arrow key
+cd..
 # 4 - What is a quick way to create a new folder?
 mkdir command and name of the new folder
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 nothing will happen on an empty folder. a full folder will list the contents inside
 # 6 - What is a quick way to create a new file?
-
+Touch command
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.39.3 (Apple Git-145)
 # 8 - Why would you run the command 'git status'?
